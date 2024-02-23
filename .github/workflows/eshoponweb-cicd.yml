@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 5ceca6d2-bcad-49b2-9ca2-41286a1b1c33
-  WEBAPP-NAME: eshoponweb-webapp-EspireSachin
+  WEBAPP-NAME: eshoponweb-webapp-EspireSachi
 
 
 jobs:
